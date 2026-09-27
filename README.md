@@ -1,1 +1,1 @@
-Product images for the Drimo store's Shopee listings.
+Product images for the lab's marketplace listings, one folder per store: `<store>/<listing-folder>/<file>`.
